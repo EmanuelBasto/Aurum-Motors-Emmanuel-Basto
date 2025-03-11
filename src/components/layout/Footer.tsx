@@ -57,7 +57,7 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="lg:col-span-2">
             <a href="#" className="block mb-4">
-              <h2 className="text-3xl font-bold tracking-tighter">LOVABLE</h2>
+              <h2 className="text-3xl font-bold tracking-tighter">Emmanuel Basto</h2>
             </a>
             <p className="text-luxury-300 mb-6 max-w-md">
               Crafting automotive excellence that blends luxury, innovation and performance. Every detail is designed to inspire and elevate your driving experience.
@@ -98,7 +98,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-luxury-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-luxury-400 mb-4 md:mb-0">
-            © {currentYear} Lovable Luxury Automobiles. All rights reserved.
+            © {currentYear} Emmanuel Basto y Automobiles. All rights reserved.
           </p>
           <div className="flex flex-wrap justify-center gap-4 text-sm text-luxury-400">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
