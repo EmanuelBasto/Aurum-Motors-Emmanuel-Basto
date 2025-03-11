@@ -42,7 +42,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <a href="#" className="text-3xl font-bold text-luxury-900 font-serif tracking-tighter">
-          Emmanuel Basto
+        Aurum Motors
         </a>
         
         {/* Desktop Navigation */}
